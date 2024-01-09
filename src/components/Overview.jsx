@@ -22,7 +22,7 @@ function Overview() {
                     <span className='text-[#1A181E] font-[Inter] text-xl not-italic font-medium'>
                         Overview
                     </span>
-                    <div className='flex justify-center items-center gap-4 w-[137px] h-9 shrink-0 rounded bg-white border border-solid border-[#D9D9D9]'>
+                    <div className='flex justify-center items-center gap-4 w-[137px] h-9 shrink-0 rounded bg-white border border-solid border-[#D9D9D9] cursor-pointer hover:bg-[#EBEBEB]'>
                         <span className='text-[#4D4D4D] font-[Inter] text-base not-italic font-normal'>
                             Last Month
                         </span>
